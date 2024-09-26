@@ -11,6 +11,7 @@ Works with `basic_auth` (htaccess/htpasswd)
 ## Installation
 
 Assuming that the magento root folder is: `/var/www/html/`
+
 Assuming that the sitemap files folder is: `/var/www/html/pub/`
 
 Go to Magento `bin` folder
